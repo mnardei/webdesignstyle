@@ -1,0 +1,184 @@
+div {
+    margin-top: 10px;
+}
+
+h1,
+h2 {
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: monospace;
+}
+
+li {
+    font-size: 18px;
+    list-style: square;
+}
+
+h1.header {
+    text-align: center;
+    font-family: 'Kanit';
+    font-weight: bold;
+}
+
+/*  Text Style Section */
+
+div.textstyle-section {
+    border: solid gray 1px;
+    padding: 15px;
+}
+
+h1.h1-style {
+    font-family: 'Kanit';
+    font-weight: bold;
+}
+
+h2.h2-style {
+    font-family: monospace;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+p.p-style {
+    font-family: 'Quattrocento';
+    font-size: 18px;
+    font-weight: normal;
+}
+
+/*  Font Section */
+
+.font-section p.title {
+    font-size: 24px;
+    text-decoration: underline;
+    margin-right: 100px;
+}
+
+.font-section p {
+    display: block;
+}
+
+div.font-section {
+    border: solid gray 1px;
+    padding: 15px;
+}
+
+/* Kanit Font Section */
+
+p.kanit-normal {
+    font-weight: normal;
+    font-family: 'Kanit';
+    font-size: 18px;
+}
+
+p.kanit-bold {
+    font-weight: bold;
+    font-family: 'Kanit';
+    font-size: 18px
+}
+
+p.kanit-italic {
+    font-style: italic;
+    font-family: 'Kanit';
+    font-size: 18px
+}
+
+/* Quattrocento Font Section */
+
+p.quattrocento-normal {
+    font-weight: normal;
+    font-family: 'Quattrocento';
+    font-size: 18px;
+}
+
+p.quattrocento-bold {
+    font-weight: bold;
+    font-family: 'Quattrocento';
+    font-size: 18px
+}
+
+p.quattrocento-italic {
+    font-style: italic;
+    font-family: 'Quattrocento';
+    font-size: 18px
+}
+
+/* Monospace Font Section */
+
+p.monospace-normal {
+    font-weight: normal;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+p.monospace-bold {
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 18px
+}
+
+p.monospace-italic {
+    font-style: italic;
+    font-family: monospace;
+    font-size: 18px
+}
+
+/* Permanent Marker Font Section */
+
+p.perm-marker-normal {
+    font-weight: normal;
+    font-family: 'Permanent Marker';
+    font-size: 18px;
+}
+
+/* Color Section */
+
+.color-section {
+    text-align: center;
+}
+
+.color-section p {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    border: solid 2px transparent;
+    border-radius: 8px;
+    padding: 5px;
+    color: ivory;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+div.color-section {
+    border: solid gray 1px;
+    padding: 15px;
+}
+
+.light-salmon {
+    background-color: #FEA993;
+}
+
+.mint-green {
+    background-color: #4FE0B0;
+}
+
+.teal {
+    background-color: #008080;
+}
+
+.sunset-orange {
+    background-color: #FD5E53;
+}
+
+.forest-green {
+    background-color: #228B22;
+}
+
+.rose-pink {
+    background-color: #F7879A;
+}
